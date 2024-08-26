@@ -1,6 +1,6 @@
 # Develop Serverless Apps with Firebase: Challenge Lab || GSP344
 
-## Solution [here](https://youtu.be/gnRrAbUzMdc)
+## Solution [here](https://youtu.be/Hv7C8QQbY3s)
 
 ### Run the following Commands in the Cloud shell
 
